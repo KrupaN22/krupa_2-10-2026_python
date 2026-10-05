@@ -1,1 +1,1 @@
-ABC
+print("hello world!")
