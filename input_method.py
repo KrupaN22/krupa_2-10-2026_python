@@ -15,10 +15,9 @@ age = int (input ("enter your age :"))
 print (name)
 print (type(age))
 
-
-boolt = True
+is_valid = True
 boolf = False
-
+print(is_valid)
 name =""
 
 print (type (name))
